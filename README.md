@@ -1,5 +1,5 @@
 # ogro
-QUESSTÃO Olimpíada Brasileira de Informática – OBI2023 – Prog. Nível Júnior – Fase 1 Ogro
+QUESTÃO Olimpíada Brasileira de Informática – OBI2023 – Prog. Nível Júnior – Fase 1 Ogro
 DESCRIÇÃO DA QUESTÃO:
 Idade de Camila
 Cibele, Camila e Celeste são três irmãs inseparáveis. Estão sempre juntas e adoram fazer esportes, ler, cozinhar, jogar no computador... Agora estão aprendendo a programar computadores para desenvolverem seus próprios jogos.
