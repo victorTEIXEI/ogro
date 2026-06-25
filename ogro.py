@@ -1,1 +1,9 @@
-
+id1=int(input(""))
+id2=int(input(""))
+id3=int(input(""))
+L=[]
+L.append(id1)
+L.append(id2)
+L.append(id3)
+L.sort()
+print(L[1])
